@@ -1,4 +1,4 @@
-## 集团im android socket流协议
+## java socket层实现文档
 
 > 详见 ChatManager类
 
